@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -42,6 +41,139 @@
 
 .bienvenida {
   margin-top: 50px;
-  padding: 20px;
+  text.align: center;
+}
+h1 {
+  font-weight:bold;
   text-align: center;
+  margin: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+.fondito {
+  background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+  background-size:cover;
+  align-items:center;
+  height: 609px;
+  padding: 20px;
+}
+.primero {
+text-align:center;
+padding: 20px;
+font-weight: bold;
+}
+.segundo {
+  color: #FFFFFF;
+  background-color: #F0A83E;
+  border: none;
+  width: 80px;
+  height: 40px;
+  }
+.centrar {
+  text-align: center;
+}
+.productos {
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+  margin-top:50px;
+  font-size: 40px;
+  ;
+}
+.abajo-uno {
+  margin-top: 30px;
+  font-size: 15px;
+  color: #666666;
+}
+.carne {
+  width: 2000px;
+  margin-top: 30px;
+}
+.abajo-dos {
+  font-size:15px;
+  color:#3C2313;
+}
+.abajo-tres {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #F0A83E;
+}
+.carne-2{
+width: 2000px;
+}
+.abajo-cuatro {
+  font-size: 15px;
+  color:#3C2313;
+}
+.abajo-cinco {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #F0A83E;
+}
+.carne-3 {
+width:2000px;
+}
+.abajo-seis {
+font-size:15px;
+color: #3C2313;
+}
+.abajo-siete {
+font-size: 15px;
+margin-top: 20px;
+color: #F0A83E;
+}
+.localidad {
+  margin-top:50px;
+}
+.marroncito {
+  background-color: #3C2313;
+}
+.localidad-2 {
+  color:#FFFFFF;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.calle {
+ font-size: 14px;
+ margin-top:20px;
+ color: #8A8787;
+}
+.numerodetelefono {
+  margin-top: 30px;
+}
+.nro-uno {
+  color: #FFFFFF;
+  margin-top:20px;
+  font-size:20px;
+}
+.nro-dos {
+  font-size:14 px;
+  margin-top:20px;
+  color:#8A8787
+}
+.correo {
+  margin-top: 30px;
+}
+.correo-dos {
+  color: #FFFFFF;
+  margin-top: 20px;
+  font-size: 20px;
+}
+.correo-tres {
+  font-size: 14px;
+  margin-top: 20px;
+  color: #8A8787;
+}
+.otro-logo {
+  margin-top:20px;
+  color: #F0A83E;
+  font-size: 20px;
+}
+.front-a {
+  color: #FFFFFF;
+}
+.final {
+  text-align: center;
+  margin-top: 20px;
+  letter-spacing: 2px;
+  background-color: #F0A83E;
+  font-size: 15px;
+  color: #FFFFFF;
 }
